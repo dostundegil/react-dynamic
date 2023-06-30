@@ -12,7 +12,7 @@ A simple React js project with kinda dynamic web page.
       <a href="#used">Used</a>
     </li>
     <li>
-      <a href="#screen-shot">Screen Shot</a>
+      <a href="#screen-shots">Screen Shots</a>
     </li>
     <li>
       <a href="#Contact">Contact</a>
@@ -25,11 +25,11 @@ A simple React js project with kinda dynamic web page.
 - React js 
 - HTML, CSS
 
-## Screen Shot
-
+## Screen Shots
+<p float="left">
 <img width="250" alt="image" src="https://raw.githubusercontent.com/dostundegil/react-dynamic/master/screenshot.png">
-
-
+<img width="250" alt="image" src="https://raw.githubusercontent.com/dostundegil/react-dynamic/master/screenshot2.png">
+</p>
 
 ## Contact
 
